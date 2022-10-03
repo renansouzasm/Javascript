@@ -1,14 +1,19 @@
 <img src="https://user-images.githubusercontent.com/101893896/174397697-097baf80-3cb3-4ba4-a7fe-2543d36bf12c.png" alt="Banner Java Script" width="100%">
 
 # Tópicos
-<a href="#login-valorant">Login valorant</a>
+<a href="#bounce">Bounce</a>
 
-<!--
+<a href="#cards">Cards</a>
+
+<a href="#login">Login</a>
+
+<a href="#maratona-explorer">Maratona explorer</a>
+
 <table>
   <tr>
     <th align="center">    
-      <h2 id="#login-valorant">Login valorant</h2>
-      <p>Um projeto básico apenas para testar a animação em css!</p>
+      <h2 id="bounce">Bounce</h2>
+      <p>Um projeto básico apenas para testar a animação do @keyframes em css, e meu primeiro contato com scss!</p>
     </th>
   </tr>
   <tr>
@@ -44,7 +49,7 @@
   <tr>
     <th align="center">
       <h2 id="maratona-explorer">Maratona explorer</h2>
-       <p>Tela de Login com tema dark & que se adapta ao tamanho da tela!</p>
+       <p>Uma página feita utilizando a ideia de link tree durante a maratona explorer 2.0 da rocketseat!</p>
        <a href="https://github.com/RenanSouz/Maratona-Explorer" target="_blank">repository</a>
     </th>  
   </tr>
@@ -54,7 +59,6 @@
     </td>
   </tr>
 </table>
--->
 
 <a href="#banner">⬆️ go to top</a>
 
