@@ -15,6 +15,6 @@ Utilizei o _**for**_ para criar as linhas e colunas da tabela automáticamente, 
         <th>Preview</th>
     </tr>
     <tr>
-        <td><img width="600px" src="exercicio-2.png" alt="Seila"></td>
+        <td><img width="600px" src="https://user-images.githubusercontent.com/101893896/193669691-b797fafb-8b56-497e-abcd-804c1a7cf1c4.png" alt="preview"/></td>
     </tr>
 </table>
