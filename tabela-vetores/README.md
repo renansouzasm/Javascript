@@ -8,7 +8,7 @@
 let nomesLista = [];
 ```
 
-Criei uma variável para armazenar a lista de nomes/textos que o usuário cadastra-se, e uma estrutura de repetição (_**for**_) para criar uma tabela numerando os dados cadastrados.
+Criei uma variável para armazenar a lista de nomes/textos que o usuário cadastrase, e uma estrutura de repetição (_**for**_) para criar uma tabela numerando os dados cadastrados.
 
 ```javascript
 nomesLista.length
