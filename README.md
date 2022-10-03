@@ -1,18 +1,13 @@
 <img src="https://user-images.githubusercontent.com/101893896/174397697-097baf80-3cb3-4ba4-a7fe-2543d36bf12c.png" id="banner" alt="Banner Java Script" width="100%">
 
 # Tópicos
-<a href="#cronometro">Cronômetro</a>
+<a href="#tabela-coordenadas">Tabela com coordenadas</a>
 
-<a href="#contador">contador</a>
+<a href="#tabela-vetores">Tabela com vetores</a>
 
-<a href="#tabelas">Tabelas</a>
-
-<table>
+<table>  
   <tr>
-    <th align="center">    
-      <h2 id="cronometro">Cronômetro</h2>
-      <p>Um projeto básico apenas para testar a animação do @keyframes em css, e meu primeiro contato com scss!</p>
-    </th>
+    <th align="center"><h3 id="tabela-coordenadas">Tabela com coordenadas</h3></th>
   </tr>
   <tr>
     <td>
@@ -21,34 +16,11 @@
   </tr>
   
   <tr>
-    <th align="center">    
-      <h2 id="cronometro">Cronômetro</h2>
-      <p>Um projeto básico apenas para testar a animação do @keyframes em css, e meu primeiro contato com scss!</p>
-    </th>
+    <th align="center"><h3 id="tabela-vetores">Tabela com vetores</h3></th>
   </tr>
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/101893896/174503688-554ec085-f7be-46dc-8a0b-02b7ff5ab50f.gif" alt="Bounce"/>   
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th align="center">
-      <p id="tabelas">Tabela 1</p>
-    </th>
-    <th>
-      <p>Tabela 2</p>
-    </th>
-  </tr>
-  
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Cards"/>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Cards"/>
     </td>
   </tr>
 </table>
