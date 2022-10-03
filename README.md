@@ -3,9 +3,23 @@
 # Tópicos
 <a href="#cronometro">Cronômetro</a>
 
+<a href="#contador">contador</a>
+
 <a href="#tabelas">Tabelas</a>
 
 <table>
+  <tr>
+    <th align="center">    
+      <h2 id="cronometro">Cronômetro</h2>
+      <p>Um projeto básico apenas para testar a animação do @keyframes em css, e meu primeiro contato com scss!</p>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101893896/174503688-554ec085-f7be-46dc-8a0b-02b7ff5ab50f.gif" alt="Bounce"/>   
+    </td>
+  </tr>
+  
   <tr>
     <th align="center">    
       <h2 id="cronometro">Cronômetro</h2>
@@ -22,11 +36,10 @@
 <table>
   <tr>
     <th align="center">
-      <h2 id="tabelas">Tabelas</h2>
-      <p>Cards personalizados feitos em css utilizando hover!</p>
+      <p id="tabelas">Tabela 1</p>
     </th>
     <th>
-      <p>tabela 2</p>
+      <p>Tabela 2</p>
     </th>
   </tr>
   
