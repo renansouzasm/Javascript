@@ -19,6 +19,6 @@ nomesLista.length
         <th>Preview</th>
     </tr>
     <tr>
-        <td><img src="https://user-images.githubusercontent.com/101893896/193669696-a47798e9-763c-4466-972d-02a1fde215a0.png" alt="preview"/> </td>
+        <td><img width="600px" src="https://user-images.githubusercontent.com/101893896/193669696-a47798e9-763c-4466-972d-02a1fde215a0.png" alt="preview"/> </td>
     </tr>
 </table>
