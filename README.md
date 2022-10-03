@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/101893896/193669043-90115644-2667-4e69-9e88-427b27c35ac3.png" alt="Bounce"/>   
+      <img src="https://user-images.githubusercontent.com/101893896/193669691-b797fafb-8b56-497e-abcd-804c1a7cf1c4.png" alt="preview"/>
     </td>
   </tr>
   
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/101893896/193669047-60ae2cee-0d8a-4cb7-a53b-6e0eaf4a2331.png" alt="Bounce"/>   
+      <img src="https://user-images.githubusercontent.com/101893896/193669696-a47798e9-763c-4466-972d-02a1fde215a0.png" alt="preview"/> 
     </td>
   </tr>
 </table>
