@@ -1,0 +1,61 @@
+:root {
+    --bgColor: #242424;
+    --bgColor1: #2a9d8f;
+    --bgColor2: #e9c46a;
+    --color: #ccc;
+    --color1: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+body {
+    padding: 50px;
+    width: 100vw;
+    height: 100%;
+    background-color: var(--bgColor);
+}
+
+table {
+    line-height: 30px;
+    margin: auto;
+}
+
+th,
+td {
+    padding: 10px 30px;
+    text-align: center;
+}
+
+strong {
+    color: var(--color);
+}
+
+button {
+    border-radius: 2px;
+    border: none;
+    height: 25px;
+    padding: 0 10px;
+    background-color: var(--color1);
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: var(--color);
+}
+
+.par {
+    background-color: var(--bgColor1);
+    color: #000;
+    font-weight: 600;
+}
+
+.impar {
+    background-color: var(--bgColor2);
+    color: #000;
+    font-weight: 600;
+}
