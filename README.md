@@ -17,11 +17,16 @@
       <img src="https://user-images.githubusercontent.com/101893896/174503688-554ec085-f7be-46dc-8a0b-02b7ff5ab50f.gif" alt="Bounce"/>   
     </td>
   </tr>
-  
+</table>
+
+<table>
   <tr>
     <th align="center">
       <h2 id="tabelas">Tabelas</h2>
       <p>Cards personalizados feitos em css utilizando hover!</p>
+    </th>
+    <th>
+      <p>tabela 2</p>
     </th>
   </tr>
   
