@@ -5,7 +5,18 @@
 
 <a href="#tabela-vetores">Tabela com vetores</a>
 
+<a href="#contador">contador</a>
+
 <table>  
+  <tr>
+    <th align="center"><h3 id="contador">Contador | <a href="https://github.com/RenanSouz/Contador-JS">repository</a></h3></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101893896/193990515-6e67a31e-6253-4d9e-8543-815d7822ab28.png" alt="preview"/>
+    </td>
+  </tr>
+
   <tr>
     <th align="center"><h3 id="tabela-coordenadas">Tabela com coordenadas | <a href="https://github.com/RenanSouz/Tabela-com-coordenadas-JS">repository</a></h3></th>
   </tr>
