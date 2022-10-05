@@ -1,0 +1,50 @@
+:root {
+    --bgColor: #001d3d;
+    --textColor: #eee;
+    --primaryColor: #ffddd2;
+    --secondaryColor: #e07a5f;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    color: var(--textColor);
+}
+
+body {
+    padding: 200px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--bgColor);
+}
+
+p {
+    margin: 20px 0;
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid var(--secondaryColor);
+    background-color: var(--primaryColor);
+    color: var(--secondaryColor);
+    font-size: 16pt;
+    font-weight: 600;
+    text-align: center;
+}
+
+#counter {
+    display: flex;
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+}
