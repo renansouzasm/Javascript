@@ -8,7 +8,7 @@
 .addEventListener("click", () => { 🧐 }
 ```
 
-Utilizei o _**addEventListener**_ poder adicionar alterações aos números, somando ou subtraindo o valores conforme o usuário desse um _**click**_.
+Utilizei o _**addEventListener**_ para poder adicionar alterações aos números, somando ou subtraindo o valores conforme o usuário desse um _**click**_.
 
 <table>
     <tr>
