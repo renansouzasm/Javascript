@@ -47,7 +47,7 @@ Exemplo de dados que a api retornou:
 
 <table>
     <tr>
-        <th>Preview | <a href="https://github.com/RenanSouz/Javascript">other javascript projects</a></th>
+        <th>Preview | <a href="https://github.com/renansouzasm/Tabela-geral-FII-JS">repository</a></th>
     </tr>
     <tr>
         <td><img width="600px" src="https://user-images.githubusercontent.com/101893896/201255783-added6fa-8fd1-46c9-818c-03e31eb13c2e.png" alt="preview"/></td>
