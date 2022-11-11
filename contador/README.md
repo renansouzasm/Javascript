@@ -12,7 +12,7 @@ Utilizei o _**addEventListener**_ poder adicionar alterações aos números, som
 
 <table>
     <tr>
-        <th>Preview | <a href="https://github.com/RenanSouz/Javascript">other javascript projects</a></th>
+        <th>Preview | <a href="https://github.com/renansouzasm/Contador-JS">repository</a></th>
     </tr>
     <tr>
         <td><img width="600px" src="https://user-images.githubusercontent.com/101893896/193991081-77d7f912-bdba-4d56-bd96-7db02a757f0b.png" alt="preview"/></td>
