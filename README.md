@@ -3,6 +3,8 @@
 # Tópicos
 <a href="#contador">Contador</a>
 
+<a href="#pokedex">Pokedex</a>
+
 <a href="#tabela-coordenadas">Tabela com coordenadas</a>
 
 <a href="#tabela-fii">Tabela geral dos FII</a>
