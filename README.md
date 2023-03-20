@@ -18,6 +18,15 @@
       <img src="https://user-images.githubusercontent.com/101893896/193991081-77d7f912-bdba-4d56-bd96-7db02a757f0b.png" alt="preview"/>
     </td>
   </tr>
+  
+  <tr>
+    <th align="center"><h3 id="pokedex">Pokedex | <a href="https://github.com/renansouzasm/Pokedex-JS">repository</a></h3></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/101893896/226346244-14b0297e-c26b-4586-8b9a-3de9741dffec.gif" alt="preview"/>
+    </td>
+  </tr>
 
   <tr>
     <th align="center"><h3 id="tabela-coordenadas">Tabela com coordenadas | <a href="https://github.com/renansouzasm/Tabela-com-coordenadas-JS">repository</a></h3></th>
